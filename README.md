@@ -60,7 +60,7 @@ Percentages and amounts clearly displayed for each segment
 
 **Interactive Features**
 
-Multidimensional Risk View toggle
+* Multidimensional Risk View toggle
 * Customer Rating filters
 * Left sidebar navigation for Key Influencers of Customer Ratings :
 
