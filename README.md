@@ -68,15 +68,9 @@ Percentages and amounts clearly displayed for each segment
 **Interactive Features**
 
 Multidimensional Risk View toggle
-Customer Rating filters
-Left sidebar navigation for Key Influencers of Customer Ratings :
+* Customer Rating filters
+* Left sidebar navigation for Key Influencers of Customer Ratings :
 
-* Credit History
-* Checking Account
-* Savings Account
-* Property
-* Debtors/Guarantors
-* Housing
 
 
 
