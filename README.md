@@ -6,9 +6,19 @@ The German Credit Data Dashboard is a comprehensive visualization tool designed 
 Dashboard Views
 
 **Mutlidimensional Risk View**
+
+* Displays portfolio statistics and demographic distributions
+* Shows loan purpose analysis and credit history patterns
+* Includes customer age group analysis and average loan durations
+
 ![German_Credit_Data_Analysis_1](https://github.com/user-attachments/assets/e07d7e12-b3bb-48a3-850d-ad6ebaa0231c)
 
 **Key Influencer View**
+
+* Focuses on factors affecting customer credit ratings
+* Visualizes relationships between various parameters and good/bad customer outcomes
+* Provides scatter plot analysis of loan duration and customer age impacts
+
 ![German_Credit_Data_Analysis_2](https://github.com/user-attachments/assets/f8f96817-a713-422d-8801-36c261f4eb94)
 
 
