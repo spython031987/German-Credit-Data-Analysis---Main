@@ -24,8 +24,8 @@ Current statistics show 1000 customers with an average credit duration of 20.90 
 Bar chart visualization showing customer distribution across age groups
 Dual-axis representation displaying:
 
-Number of customers (bars)
-Average loan duration in months (line)
+* Number of customers (bars)
+* Average loan duration in months (line)
 
 
 Age groups range from 10-19 to 70-79 years
@@ -45,22 +45,22 @@ Segmented by Key Influencers of Customer Ratings:
 
 Categories of Purpose of Loans include:
 
-Others (up to 18K average loan amount)
-Business
-Car
-Education
-Domestic Purpose
+* Others (up to 18K average loan amount)
+* Business
+* Car
+* Education
+* Domestic Purpose
 
 **4. Average Loan Amount Distribution by Key Influencers of Credit Ratings**
 
 Doughnut chart representing the distribution of Average amount of loans across Key Influencers of Credit Ratings: 
 
-Credit History
-Checking Account
-Savings Account
-Property
-Debtors / Gurantors
-Housing
+* Credit History
+* Checking Account
+* Savings Account
+* Property
+* Debtors / Gurantors
+* Housing
 
 
 Percentages and amounts clearly displayed for each segment
@@ -69,14 +69,14 @@ Percentages and amounts clearly displayed for each segment
 
 Multidimensional Risk View toggle
 Customer Rating filters
-Left sidebar navigation for different credit aspects:
+Left sidebar navigation for Key Influencers of Customer Ratings :
 
-Credit History
-Checking Account
-Savings Account
-Property
-Debtors/Guarantors
-Housing
+* Credit History
+* Checking Account
+* Savings Account
+* Property
+* Debtors/Guarantors
+* Housing
 
 
 
