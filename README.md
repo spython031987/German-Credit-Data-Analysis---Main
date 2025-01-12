@@ -71,7 +71,7 @@ Percentages and amounts clearly displayed for each segment
 
 
 
-**Interactive Features**
+**5. Interactive Features**
 
 * Multidimensional Risk View toggle
 * Customer Rating filters
@@ -87,7 +87,7 @@ Percentages and amounts clearly displayed for each segment
 
 **Scatter Plot Visualizations**
 
-# Duration & No. of Loans Analysis
+**Duration & No. of Loans Analysis**
 
 X-axis: Loan Duration (0-60 months)
 Y-axis: Number of Loans
@@ -95,7 +95,7 @@ Color-coded for Good/Bad Customers
 Bubble size indicates credit amount
 
 
-# Age & No. of Loans Analysis
+**Age & No. of Loans Analysis**
 
 X-axis: Customer Age (20-80 years)
 Y-axis: Number of Loans
