@@ -15,7 +15,7 @@ The German Credit Data Dashboard is a comprehensive visualization tool designed 
 
 **1. Portfolio Statistics Panel**
 
-Displays key metrics including total customer count and average credit duration
+Displays key metrics including total customer count, average credit duration and average credit amount
 Shows aggregated statistics for the entire portfolio
 Current statistics show 1000 customers with an average credit duration of 20.90 months
 
@@ -28,20 +28,22 @@ Number of customers (bars)
 Average loan duration in months (line)
 
 
-Age groups range from 18-19 to 70-75 years
+Age groups range from 10-19 to 70-79 years
 Peak customer concentration in 20-29 age group with approximately 400 customers
 
 **3. Loan Purpose Analysis**
 
 Horizontal bar chart showing average loan amounts by purpose
-Segmented by credit history status:
+Segmented by Key Influencers of Custoemr Ratings:
 
-No Credit
-Credit (Delayed Payback)
-Credit (On-time Payback)
+Credit History
+Checking Account
+Savings Account
+Property
+Debtors / Gurantors
+Housing
 
-
-Categories include:
+Categories of Purpose of Loans include:
 
 Others (up to 18K average loan amount)
 Business
@@ -50,15 +52,16 @@ Education
 Domestic Purpose
 
 
+**4. Average Loan Amount Distribution by Key Influencers of Credit Ratings **
 
-**4. Credit History Distribution**
+Doughnut chart representing the distribution of Average amount of loans across Key Influencers of Credit Ratings: 
 
-Donut chart representing the distribution of credit history types
-Three main categories:
-
-No Credit
-Credit with Delayed Payback
-Credit with On-time Payback
+Credit History
+Checking Account
+Savings Account
+Property
+Debtors / Gurantors
+Housing
 
 
 Percentages and amounts clearly displayed for each segment
