@@ -13,7 +13,7 @@ Dashboard Views
 
 ![German_Credit_Data_Analysis_1](https://github.com/user-attachments/assets/e07d7e12-b3bb-48a3-850d-ad6ebaa0231c)
 
-**Key Influencer View**
+### Key Influencer View
 
 * Focuses on factors affecting customer credit ratings
 * Visualizes relationships between various parameters and good/bad customer outcomes
