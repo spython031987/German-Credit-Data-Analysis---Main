@@ -22,7 +22,7 @@ Dashboard Views
 ![German_Credit_Data_Analysis_2](https://github.com/user-attachments/assets/f8f96817-a713-422d-8801-36c261f4eb94)
 
 
-**Features of Multidimensional Risk View**
+#### Features of Multidimensional Risk View
 
 **1. Portfolio Statistics Panel**
 
