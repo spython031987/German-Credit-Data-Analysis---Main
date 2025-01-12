@@ -34,14 +34,7 @@ Peak customer concentration in 20-29 age group with approximately 400 customers
 **3. Loan Purpose Analysis**
 
 Horizontal bar chart showing average loan amounts by purpose
-Segmented by Key Influencers of Customer Ratings:
-
-* Credit History
-* Checking Account
-* Savings Account
-* Property
-* Debtors / Gurantors
-* Housing
+Segmented by Key Influencers of Customer Ratings
 
 Categories of Purpose of Loans include:
 
