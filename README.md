@@ -91,35 +91,35 @@ Percentages and amounts clearly displayed for each segment
 
 **A) Duration & No. of Loans Analysis**
 
-X-axis: Loan Duration (0-60 months)
-Y-axis: Number of Loans
-Color-coded for Good/Bad Customers
-Bubble size indicates credit amount
+* X-axis: Loan Duration (0-60 months)
+* Y-axis: Number of Loans
+* Color-coded for Good/Bad Customers
+* Bubble size indicates credit amount
 
 
 **B) Age & No. of Loans Analysis**
 
-X-axis: Customer Age (20-80 years)
-Y-axis: Number of Loans
-Color-coded for Good/Bad Customers
-Bubble size indicates credit amount
-Shows age-based risk distribution
+* X-axis: Customer Age (20-80 years)
+* Y-axis: Number of Loans
+* Color-coded for Good/Bad Customers
+* Bubble size indicates credit amount
+* Shows age-based risk distribution
 
 
 
 
 **Technical Notes**
 
-Dashboard updates in real-time based on filter selections
-All monetary values are displayed in thousands (K)
-Duration metrics are shown in months
-Color coding used consistently across visualizations for credit history categories
+* Dashboard updates in real-time based on filter selections
+* All monetary values are displayed in thousands (K)
+* Duration metrics are shown in months
+* Color coding used consistently across visualizations for credit history categories
 
 **Usage Guidelines**
 
-Use the top-right toggle for switching between risk view modes
-Apply filters through the Customer Rating dropdown
-Navigate different aspects of credit analysis through the left sidebar
-Hover over charts for detailed tooltips and specific values
+* Use the top-right toggle for switching between risk view modes
+* Apply filters through the Customer Rating dropdown
+* Navigate different aspects of credit analysis through the left sidebar
+* Hover over charts for detailed tooltips and specific values
 
 For technical support or data-related queries, please contact the dashboard administrator.
