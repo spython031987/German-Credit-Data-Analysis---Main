@@ -34,7 +34,7 @@ Peak customer concentration in 20-29 age group with approximately 400 customers
 **3. Loan Purpose Analysis**
 
 Horizontal bar chart showing average loan amounts by purpose
-Segmented by Key Influencers of Custoemr Ratings:
+Segmented by Key Influencers of Customer Ratings:
 
 Credit History
 Checking Account
@@ -51,8 +51,7 @@ Car
 Education
 Domestic Purpose
 
-
-**4. Average Loan Amount Distribution by Key Influencers of Credit Ratings **
+**4. Average Loan Amount Distribution by Key Influencers of Credit Ratings**
 
 Doughnut chart representing the distribution of Average amount of loans across Key Influencers of Credit Ratings: 
 
