@@ -85,9 +85,9 @@ Percentages and amounts clearly displayed for each segment
 * Shows likelihood multipliers for good/bad customer outcomes
 * Key influencers of credit ratings ranked by impact
 
-Scatter Plot Visualizations
+**Scatter Plot Visualizations**
 
-Duration & No. of Loans Analysis
+# Duration & No. of Loans Analysis
 
 X-axis: Loan Duration (0-60 months)
 Y-axis: Number of Loans
@@ -95,7 +95,7 @@ Color-coded for Good/Bad Customers
 Bubble size indicates credit amount
 
 
-Age & No. of Loans Analysis
+# Age & No. of Loans Analysis
 
 X-axis: Customer Age (20-80 years)
 Y-axis: Number of Loans
