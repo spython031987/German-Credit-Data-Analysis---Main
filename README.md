@@ -17,7 +17,7 @@ Dashboard Views
 
 * Focuses on factors affecting customer credit ratings
 * Visualizes relationships between various parameters and good/bad customer outcomes
-* Provides scatter plot analysis of loan duration and customer age impacts
+* Provides relationship between Number of Loans and Customer Age & Duration
 
 ![German_Credit_Data_Analysis_2](https://github.com/user-attachments/assets/f8f96817-a713-422d-8801-36c261f4eb94)
 
