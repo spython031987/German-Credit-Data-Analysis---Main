@@ -78,7 +78,7 @@ Percentages and amounts clearly displayed for each segment
 * Left sidebar navigation for Key Influencers of Customer Ratings :
 
 
-##**Key Features of Key Influencer View**
+**Key Features of Key Influencer View**
 
 * Displays relative importance of factors affecting customer credit ratings
 * Shows likelihood multipliers for good/bad customer outcomes
