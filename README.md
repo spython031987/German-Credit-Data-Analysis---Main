@@ -5,7 +5,7 @@
 The German Credit Data Dashboard is a comprehensive visualization tool designed to analyze credit data and loan distributions across different customer segments. This interactive dashboard provides insights into customer demographics, loan durations, and credit history patterns.
 
 **Main Page**
-![German_Credit_Data_Analysis_1](https://github.com/user-attachments/assets/ec13788f-413f-491b-a355-784aa4a6f367)
+![German_Credit_Data_Analysis_1](https://github.com/user-attachments/assets/e07d7e12-b3bb-48a3-850d-ad6ebaa0231c)
 
 **Additional Page**
 ![German_Credit_Data_Analysis_2](https://github.com/user-attachments/assets/f8f96817-a713-422d-8801-36c261f4eb94)
