@@ -7,6 +7,9 @@ The German Credit Data Dashboard is a comprehensive visualization tool designed 
 **Main Page**
 ![German_Credit_Data_Analysis_1](https://github.com/user-attachments/assets/ec13788f-413f-491b-a355-784aa4a6f367)
 
+**Additional Page**
+![German_Credit_Data_Analysis_2](https://github.com/user-attachments/assets/f8f96817-a713-422d-8801-36c261f4eb94)
+
 
 **Key Features**
 
