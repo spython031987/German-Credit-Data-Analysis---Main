@@ -22,7 +22,7 @@ Dashboard Views
 ![German_Credit_Data_Analysis_2](https://github.com/user-attachments/assets/f8f96817-a713-422d-8801-36c261f4eb94)
 
 
-**Key Features of Multidimensional Risk View**
+**Features of Multidimensional Risk View**
 
 **1. Portfolio Statistics Panel**
 
@@ -76,9 +76,10 @@ Percentages and amounts clearly displayed for each segment
 * Multidimensional Risk View toggle
 * Customer Rating filters
 * Left sidebar navigation for Key Influencers of Customer Ratings :
+  
 
 
-**Key Features of Key Influencer View**
+**Features of Key Influencer View**
 
 * Displays relative importance of factors affecting customer credit ratings
 * Shows likelihood multipliers for good/bad customer outcomes
