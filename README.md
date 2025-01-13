@@ -39,13 +39,13 @@ Dual-axis representation displaying:
 * Average loan duration in months (line)
 
 
-Age groups range from 10-19 to 70-79 years
-Peak customer concentration in 20-29 age group with approximately 400 customers
+Age groups range from 10-19 to 70-79 years.
+Peak customer concentration in 20-29 age group with approximately 400 customers.
 
 **3. Loan Purpose Analysis**
 
 Horizontal bar chart showing average loan amounts by purpose
-Segmented by Key Influencers of Customer Ratings
+segmented by Key Influencers of Customer Ratings.
 
 Categories of Purpose of Loans include:
 
