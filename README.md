@@ -22,7 +22,7 @@ Dashboard Views
 ![German_Credit_Data_Analysis_2](https://github.com/user-attachments/assets/f8f96817-a713-422d-8801-36c261f4eb94)
 
 
-#### Features of Multidimensional Risk View
+### Features of Multidimensional Risk View
 
 **1. Portfolio Statistics Panel**
 
@@ -79,7 +79,7 @@ Percentages and amounts clearly displayed for each segment
   
 
 
-#### Features of Key Influencer View
+### Features of Key Influencer View
 
 **1. Key Influencer Visualization**
 
@@ -108,14 +108,14 @@ Percentages and amounts clearly displayed for each segment
 
 
 
-**Technical Notes**
+### Technical Notes
 
 * Dashboard updates in real-time based on filter selections
 * All monetary values are displayed in thousands (K)
 * Duration metrics are shown in months
 * Color coding used consistently across visualizations for credit history categories
 
-**Usage Guidelines**
+### Usage Guidelines
 
 * Use the top-right toggle for switching between risk view modes
 * Apply filters through the Customer Rating dropdown
