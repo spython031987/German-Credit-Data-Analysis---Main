@@ -7,9 +7,9 @@ Dashboard Views
 
 ### Mutlidimensional Risk View
 
-* Displays portfolio statistics and demographic distributions
-* Shows loan purpose analysis and credit history patterns
-* Includes customer age group analysis and average loan durations
+* Displays portfolio statistics and demographic distributions.
+* Shows loan purpose analysis and credit history patterns.
+* Includes customer age group analysis and average loan durations.
 
 ![German_Credit_Data_Analysis_1](https://github.com/user-attachments/assets/e07d7e12-b3bb-48a3-850d-ad6ebaa0231c)
 
@@ -26,13 +26,13 @@ Dashboard Views
 
 **1. Portfolio Statistics Panel**
 
-Displays key metrics including total customer count, average credit duration and average credit amount
+Displays key metrics including total customer count, average credit duration and average credit amount.
 Shows aggregated statistics for the entire portfolio
-Current statistics show 1000 customers with an average credit duration of 20.90 months
+Current statistics show 1000 customers with an average credit duration of 20.90 months.
 
 **2. Age Group Analysis**
 
-Bar chart visualization showing customer distribution across age groups
+Bar chart visualization showing customer distribution across age groups.
 Dual-axis representation displaying:
 
 * Number of customers (bars)
