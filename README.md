@@ -13,14 +13,6 @@ Dashboard Views
 
 ![German_Credit_Data_Analysis_1](https://github.com/user-attachments/assets/e07d7e12-b3bb-48a3-850d-ad6ebaa0231c)
 
-### Key Influencer View
-
-* Focuses on factors affecting customer credit ratings
-* Visualizes relationships between Number of Loans and Customer Age & Duration bifurcating into good/bad customer outcomes
-* The visualizations also gives information on the relative size of the loans for customers through bubble sizes. 
-
-![German_Credit_Data_Analysis_2](https://github.com/user-attachments/assets/f8f96817-a713-422d-8801-36c261f4eb94)
-
 
 ### Features of Multidimensional Risk View
 
@@ -70,14 +62,20 @@ Doughnut chart representing the distribution of Average amount of loans across K
 Percentages and amounts clearly displayed for each segment
 
 
-
 **5. Interactive Features**
 
 * Multidimensional Risk View toggle
 * Customer Rating filters
 * Left sidebar navigation for Key Influencers of Customer Ratings :
-  
 
+  
+### Key Influencer View
+
+* Focuses on factors affecting customer credit ratings
+* Visualizes relationships between Number of Loans and Customer Age & Duration bifurcating into good/bad customer outcomes
+* The visualizations also gives information on the relative size of the loans for customers through bubble sizes. 
+
+![German_Credit_Data_Analysis_2](https://github.com/user-attachments/assets/f8f96817-a713-422d-8801-36c261f4eb94)
 
 ### Features of Key Influencer View
 
