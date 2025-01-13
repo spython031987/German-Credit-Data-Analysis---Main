@@ -7,7 +7,7 @@ Dashboard Views
 
 ### Mutlidimensional Risk View
 
-* Displays portfolio statistics and demographic distributions.
+* Displays portfolio statistics.
 * Shows loan purpose analysis and credit history patterns.
 * Includes customer age group analysis and average loan durations.
 
