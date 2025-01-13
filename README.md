@@ -81,7 +81,7 @@ Percentages and amounts clearly displayed for each segment
 
 #### Features of Key Influencer View
 
-**1. Key Influencer Visualizations**
+**1. Key Influencer Visualization**
 
 * Displays relative importance of factors affecting customer credit ratings
 * Shows likelihood multipliers for good/bad customer outcomes
