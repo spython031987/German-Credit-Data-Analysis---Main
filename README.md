@@ -27,7 +27,7 @@ Dashboard Views
 **1. Portfolio Statistics Panel**
 
 Displays key metrics including total customer count, average credit duration and average credit amount.
-Shows aggregated statistics for the entire portfolio
+Shows aggregated statistics for the entire portfolio.
 Current statistics show 1000 customers with an average credit duration of 20.90 months.
 
 **2. Age Group Analysis**
