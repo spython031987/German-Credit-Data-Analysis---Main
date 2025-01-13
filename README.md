@@ -17,7 +17,7 @@ Dashboard Views
 
 * Focuses on factors affecting customer credit ratings
 * Visualizes relationships between Number of Loans and Customer Age & Duration bifurcating into good/bad customer outcomes
-* The visualizations also gives information on the relative size of the loans for individual customers.
+* The visualizations also gives information on the relative size of the loans for customers.
 
 ![German_Credit_Data_Analysis_2](https://github.com/user-attachments/assets/f8f96817-a713-422d-8801-36c261f4eb94)
 
