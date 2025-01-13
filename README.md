@@ -1,5 +1,5 @@
 # German-Credit-Data-Analysis - Main
-**German Credit Data Dashboard Link:**  https://app.powerbi.com/reportEmbed?reportId=23b733e5-31bc-41e8-a46a-01e08c040e37&autoAuth=true&ctid=bdb74b30-9568-4856-bdbf-06759778fcbc
+## German Credit Data Dashboard Link:  https://app.powerbi.com/reportEmbed?reportId=23b733e5-31bc-41e8-a46a-01e08c040e37&autoAuth=true&ctid=bdb74b30-9568-4856-bdbf-06759778fcbc
 
 ## Overview
 The German Credit Data Dashboard is a comprehensive visualization tool designed to analyze credit data and loan distributions across different customer segments. This interactive dashboard provides insights into customer demographics, loan durations, and credit history patterns with two distinct views: Multidimensional Risk View and Key Influencer View.
