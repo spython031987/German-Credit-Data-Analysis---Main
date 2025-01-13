@@ -7,9 +7,9 @@ Dashboard Views
 
 ### Mutlidimensional Risk View
 
-* Displays portfolio statistics.
-* Shows loan purpose analysis and credit history patterns.
-* Includes customer age group analysis and average loan durations.
+* Displays important portfolio statistics.
+* Shows loan purpose analysis for key drivers of credit ratings
+* Provides snapshot of distribution of loans among different customer age groups and corresponding average loan duration.
 
 ![German_Credit_Data_Analysis_1](https://github.com/user-attachments/assets/e07d7e12-b3bb-48a3-850d-ad6ebaa0231c)
 
